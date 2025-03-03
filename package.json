@@ -1,0 +1,22 @@
+{
+  "name": "gravastar-clone",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "sass": "^1.32.8",
+    "framer-motion": "latest"
+  },
+  "description": ""
+}
